@@ -89,15 +89,4 @@ flutter:
   # see https://flutter.dev/to/font-from-package
 
   assets:
-    - lib/assets/lofi.webp
-    - lib/assets/demon.webp
-    - lib/assets/b_drhouse.webp
-    - lib/assets/b_avatar.webp
-    - lib/assets/b_greenland.webp
-    - lib/assets/b_mentalist.webp
-    - lib/assets/b_ncis.webp
-    - lib/assets/b_peaky.webp
-    - lib/assets/b_project.webp
-    - lib/assets/b_refuge.webp
-    - lib/assets/interstellar.webp
-    - lib/assets/elevation.webp
+    - lib/assets/
